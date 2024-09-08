@@ -23,8 +23,8 @@
           uses: docker/login-action@v2.2.0
           with:
             registry: registry.cn-heyuan.aliyuncs.com
-            username: zhangyu
-            password: zhangyu76
+            username: 614125682@qq.com
+            password: Zy614125682.
             logout: false
 
         - name: Use Skopeo Tools Sync Image to Docker Hub
