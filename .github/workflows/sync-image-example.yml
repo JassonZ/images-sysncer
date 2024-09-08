@@ -24,7 +24,7 @@
           with:
             registry: registry.cn-heyuan.aliyuncs.com
             username: 614125682@qq.com
-            password: Zy614125682.
+            password: zhangyu76
             logout: false
 
         - name: Use Skopeo Tools Sync Image to Docker Hub
